@@ -60,7 +60,7 @@ src
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fitforge-ai-backend.git
+git clone https://github.com/pyrajesh1601/fitforge-ai-backend.git
 ```
 
 ### Run with Docker
